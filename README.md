@@ -76,6 +76,8 @@ The model is trained on the CSIC 2010 HTTP Dataset and achieves:
 - F1-Score: >0.94
 - Low false-positive rate: <1%
 
+The model is available to use here (https://huggingface.co/jacpacd/waf-distilbert)
+
 ## 🔌 API Endpoints
 
 ### Prediction Endpoint
