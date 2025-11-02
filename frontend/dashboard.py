@@ -15,7 +15,7 @@ st.title("🛡️ WAF Transformer ")
 st.markdown("**Real-time Web Application Firewall using Transformer-based AI**")
 
 # Hardcoded API key (not displayed in UI)
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "YOUR API KEY"
 
 # Sidebar for configuration
 st.sidebar.title("Configuration")
